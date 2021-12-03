@@ -1,0 +1,51 @@
+.float{
+    float: right;
+}
+
+
+.button{
+    border: 0;
+    border-radius: 0.25 rem;
+    background:coral;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 23px;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-decoration: none;
+    padding: 0.25 rem 0.5rem;
+    margin: .25 rem;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.head{
+    top: 5px;
+    left: 15px;
+    right: 15px;
+    height: 75px;
+    padding-left: 700px;
+    background-color: rgb(12, 104, 0);
+}
+
+.body{
+    background-color: rgb(177, 233, 250);
+    padding-bottom: 30px;
+    padding-left: 300px;
+    padding-right: 500px;
+    padding-top: 10px;
+    width:50%;
+}
+
+.footer{
+    position: relative;
+    bottom:5px;
+    height: 40x;
+    left: 5px;
+    right: 5px;
+    font-size: 12px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    background-color: white;
+
+}
